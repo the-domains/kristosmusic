@@ -1,4 +1,4 @@
-name: Kristosmusic
+name: 'Kristos*music*universe'
 favicon: null
 layout_spectrum: 0.42365385964512825
 typography_spectrum: 0.4326937885489315
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.5800228512380272
-  lightness: 0.8271746768150479
-  saturation: 0.9210179985966533
-  rhythmicContrast: 0.9521953859366477
+    - '#ffffff'
+    - '#040404'
+    - '#444444'
+    - '#bebebe'
+    - '#9f9f9f'
+  brandStrength: 0.6875
+  lightness: 0.625
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []
